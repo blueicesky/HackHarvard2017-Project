@@ -27,5 +27,3 @@ We are planning to make our realtime detection more accurate and more efficient.
 We are planning to make our api open source so that way everyone can integrate our API into their apps or websites.
 
 
-
-README Creds to My teammate GauravLath07
